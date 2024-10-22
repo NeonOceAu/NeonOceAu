@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?NeonOceAu=&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeonOceAu&theme=radical)
