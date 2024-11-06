@@ -6,5 +6,5 @@ __________________________________________________________________
 
 __________________________________________________________________
 
-![Discord Banner 2](https://discord.com/api/guilds/[1292053354637430917]/widget.png?style=banner2)
+![Discord Banner 2](https://discord.com/api/guilds/1292053354637430917/widget.png?style=banner2)
 
