@@ -6,5 +6,5 @@ __________________________________________________________________
 
 __________________________________________________________________
 
-[![Discord](https://img.shields.io/discord/1292053354637430917?label=Join%20us%20on%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/neonscripts)
+![Discord Banner 2](https://discord.com/api/guilds/[1292053354637430917]/widget.png?style=banner2)
 
